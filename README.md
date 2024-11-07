@@ -34,11 +34,11 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 [Grupos.xlsx](https://github.com/user-attachments/files/17549939/Grupos.xlsx)
 
 # Integrantes do Grupo
-1) 
-2) 
-3) 
-4) 
-5) 
+1) Danilo Rocha
+2) Gabriel Araujo
+3) Erik Sousa
+4) Wanderson Targa
+5) Luyza Nascimento
 
 # Modelo Lógico
 * Abaixo você pode visualizar o modelo lógico do trabalho.
